@@ -1,0 +1,8 @@
+{
+  "EKSCloud9EnvId": "https://us-east-1.console.aws.amazon.com/cloud9/ide/bb5034d2f8324ea48846ff90fe831a7d?region=us-east-1",
+  "LoadBalancerDNS": "alb-containersid3-2083310386.us-east-1.elb.amazonaws.com",
+  "DynamoTable": "Table-containersid3",
+  "ProfileName": "containersid3-MythicalProfile-zyQKC5Ixymy7",
+  "SiteBucket": "containersid3-mythicalbucket-v87d9bse1xi",
+  "S3WebsiteURL": "http://containersid3-mythicalbucket-v87d9bse1xi.s3-website-us-east-1.amazonaws.com"
+}
